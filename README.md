@@ -1,1 +1,2 @@
 # Practicing-SQL
+This repository named as "Practicing-SQL" will be consisting of all the codes which I will be practicing to get a good command on SQL (Structured Query Language). It is one of the most required skills in today's time, as maintaining data of so many users across various applications is a tedious job. 
